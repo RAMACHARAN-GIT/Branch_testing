@@ -1,0 +1,1 @@
+In vi text editer capital I is insert mode and Esc switch to command mode :W save and continue editing :wq or ZZ save and exit`
